@@ -92,11 +92,17 @@ Cyber Security student and Full Stack Developer passionate about building secure
 
 <div align="center">
 
-![Mohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohanmj2457&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400)
+<p>
+  <img src="https://github-readme-stats-q2ta.vercel.app/api?username=mohanmj2457&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&cache_seconds=3200" alt="Mohan's GitHub Stats" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohanmj2457&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400)
+<p>
+  <img src="https://github-readme-stats-q2ta.vercel.app/api/top-langs/?username=mohanmj2457&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=3200" alt="Top Languages" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=mohanmj2457&theme=tokyonight&hide_border=true)
+<p>
+  <img src="https://streak-stats.demolab.com?user=mohanmj2457&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 </div>
 
