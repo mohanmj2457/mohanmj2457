@@ -1,19 +1,12 @@
-<!-- ================= HEADER ================= -->
+<div align="center">
 
-<h1 align="center">Hey 👋, I'm Mohan Murari Sharma</h1>
+# Hey 👋, I'm Mohan Murari Sharma
 
-<h3 align="center">
-🔐 Cyber Security Student | 🚀 Full Stack Developer
-</h3>
+### 🔐 Cyber Security Student | 🚀 Full Stack Developer
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hey+Geeks+👋;I'm+Mohan+Murari+Sharma;Cyber+Security+Student+🔐;Full+Stack+Developer+🚀;AI+%7C+Web+Development+💻"
-      alt="Typing SVG"
-    />
-  </a>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hey+Geeks+%F0%9F%91%8B;I'm+Mohan+Murari+Sharma;Cyber+Security+Student+%F0%9F%94%90;Full+Stack+Developer+%F0%9F%9A%80;AI+%7C+Web+Development+%F0%9F%92%BB)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
@@ -23,110 +16,98 @@ Cyber Security student and Full Stack Developer passionate about building secure
 
 ---
 
-### 🧰 Toolbox
+## 🧰 Toolbox
 
 ```yaml
-💻 IDE: VS Code
-📦 Package Manager: pip, npm
-⚛️ Frontend: React.js, HTML, CSS, JavaScript
-⚙️ Backend: Flask, Django, Node.js
-🗄️ Database: MongoDB, MySQL, PostgreSQL
-🎨 Design: Figma, Canva
-🛠️ Tools: Git, GitHub, Postman
-☁️ Deployment: Render, Vercel
+💻 IDE          : VS Code
+📦 Pkg Manager  : pip, npm
+⚛️  Frontend     : React.js, HTML, CSS, JavaScript
+⚙️  Backend      : Flask, Django, Node.js
+🗄️  Database     : MongoDB, MySQL, PostgreSQL
+🎨 Design       : Figma, Canva
+🛠️  Tools        : Git, GitHub, Postman
+☁️  Deployment   : Render, Vercel
 ```
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=650&lines=Building+Secure+Applications+🔐;while(alive)+%7B+code();+%7D+🔥;AI+%2B+Cyber+Security+%2B+Development" />
-</p>
+---
+
+## 🔗 Connect With Me
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohanmj2457@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohan-murari-sharma-b93862329/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohanmj2457)
+
+</div>
 
 ---
 
-### 🔗 Connect With Me
-
-<p align="center">
-
-  <a href="mailto:mohanmj2457@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/mohan-murari-sharma-b93862329/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="https://github.com/mohanmj2457">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-
-</p>
-
----
-
-<h2 align="center">💻 Tech Stack</h2>
+## 💻 Tech Stack
 
 ### 🧑‍🎨 Frontend
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</p>
+
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+</div>
 
 ### ⚙️ Backend
-<p align="center">
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-</p>
+
+<div align="center">
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+</div>
 
 ### 🗄️ Database
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
 
-### 🧠 Tools & Frameworks
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-</p>
+<div align="center">
 
----
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<h2 align="center">📊 GitHub Stats</h2>
+</div>
 
-<p align="center">
-  <a href="https://github.com/mohanmj2457">
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=mohanmj2457&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true"
-    />
-  </a>
-</p>
+### 🧠 Tools
 
-<p align="center">
-  <a href="https://github.com/mohanmj2457">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohanmj2457&layout=compact&theme=tokyonight&hide_border=true"
-    />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=mohanmj2457&theme=tokyonight&hide_border=true"
-  />
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohanmj2457&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>
+## 📊 GitHub Stats
 
-<h3 align="center">
-✨ Build • Secure • Learn ✨
-</h3>
+<div align="center">
+
+![Mohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohanmj2457&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohanmj2457&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=mohanmj2457&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=mohanmj2457&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+
+### ✨ Build • Secure • Learn ✨
+
+</div>
