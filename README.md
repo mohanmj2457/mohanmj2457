@@ -4,7 +4,7 @@
 
 ### 🔐 Cyber Security Student | 🚀 Full Stack Developer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hey+Geeks+%F0%9F%91%8B;I'm+Mohan+Murari+Sharma;Cyber+Security+Student+%F0%9F%94%90;Full+Stack+Developer+%F0%9F%9A%80;AI+%7C+Web+Development+%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&multiline=false&width=700&height=50&lines=Hey+Geeks!+%F0%9F%91%8B+I%27m+Mohan+Murari+Sharma;Cyber+Security+Student+%F0%9F%94%90+%7C+Full+Stack+Developer+%F0%9F%9A%80;Building+Secure+%26+Scalable+Apps+%F0%9F%92%BB;AI+%7C+Web+Dev+%7C+Open+Source+%E2%9C%A8)](https://git.io/typing-svg)
 
 </div>
 
