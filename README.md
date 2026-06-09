@@ -1,4 +1,3 @@
-````md id="x8q9vr"
 <!-- ================= HEADER ================= -->
 
 <h1 align="center">Hey 👋, I'm Mohan Murari Sharma</h1>
@@ -98,19 +97,6 @@ Cyber Security student and Full Stack Developer passionate about building secure
 
 ---
 
-## 🚀 Featured Projects
-
-### ☀️ SolarSight AI
-AI-powered solar farm monitoring system using **YOLOv8 + Django + Next.js**
-
-### 🎓 Placify
-Resume parsing web platform built using **Flask & PyResParser**
-
-### 🎙️ Voice Control Assistant
-Desktop assistant for automation and system control
-
----
-
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
@@ -144,4 +130,3 @@ Desktop assistant for automation and system control
 <h3 align="center">
 ✨ Build • Secure • Learn ✨
 </h3>
-````
