@@ -4,8 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&height=55&lines=Cyber+Security+Student+%F0%9F%94%90;Full+Stack+Developer+%F0%9F%9A%80;AI+%7C+Web+Development+%F0%9F%92%BB;Build+%E2%80%A2+Secure+%E2%80%A2+Learn+%E2%9C%A8)](https://git.io/typing-svg)
 
-
-
 </div>
 
 ---
@@ -94,9 +92,9 @@ Cyber Security student and Full Stack Developer passionate about building secure
 
 <div align="center">
 
-![Mohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohanmj2457&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true)
+![Mohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohanmj2457&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohanmj2457&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohanmj2457&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=mohanmj2457&theme=tokyonight&hide_border=true)
 
