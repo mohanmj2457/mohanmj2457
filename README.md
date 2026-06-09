@@ -1,8 +1,8 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=500&color=00FF99&center=true&vCenter=true&width=750&height=60&lines=Hey+Geeks!+%F0%9F%91%8B+...;I%27m+Mohan+Murari+Sharma+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=500&color=00FF99&center=true&vCenter=true&width=750&height=60&lines=Hey+Geeks!+%F0%9F%91%8B+...;I%27m+Mohan+Murari+Sharma+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&height=55&lines=Cyber+Security+Student+%F0%9F%94%90;Full+Stack+Developer+%F0%9F%9A%80;AI+%7C+Web+Development+%F0%9F%92%BB;Build+%E2%80%A2+Secure+%E2%80%A2+Learn+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&height=55&lines=Cyber+Security+Student+%F0%9F%94%90;Full+Stack+Developer+%F0%9F%9A%80;AI+%7C+Web+Development+%F0%9F%92%BB;Build+%E2%80%A2+Secure+%E2%80%A2+Learn+%E2%9C%A8)](https://git.io/typing-svg)
 
 
 
